@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WindowsAuto": {
+      "commandName": "Project",
+      "commandLineArgs": "-a"
+    }
+  }
+}
